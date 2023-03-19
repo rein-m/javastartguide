@@ -5,6 +5,27 @@ public class startguide {
     /* 
      * like this!
      */
+    /* To check if you have a Java Development Kit (JDK) installed on your computer, open the command prompt and type "java -version", and after that type "javac -version"
+    If you have a JDK installed, it will display the version number. If not, you will see an error message.
+    If you don't have a JDK installed, grab Amazon Corretto (for now still a good option, may age poorly)
+    (sigh, companies)
+
+    Amazon Corretto is a free, open-source, production-ready distribution of the Open Java Development Kit (OpenJDK) that is available for download from the Amazon website. To download and install Amazon Corretto, follow these steps:
+
+    Go to the Amazon Corretto website: https://aws.amazon.com/corretto/
+    Click on the "Download" button for the version of Corretto you want to use (e.g., Corretto 11 or Corretto 17).
+    Follow the prompts to download the installation file for your operating system.
+    Once the file is downloaded, run the installer and follow the prompts to install Corretto on your computer.
+    To compile and run Java files using the command prompt, follow these steps:
+
+    Open the command prompt and navigate to the directory where your Java file is located using the "cd" command.
+    Compile the Java file by typing "javac filename.java" (replace "filename" with the name of your Java file).
+    If the compilation is successful, a new file with the extension ".class" will be created in the same directory as your Java file.
+    Run the Java file by typing "java filename" (again, replace "filename" with the name of your Java file, but without the ".java" extension).
+    If everything is working correctly, the output of your Java program will be displayed in the command prompt.
+    It's important to note that in order for these steps to work, your Java file must be correctly formatted and free of syntax errors. */
+
+
     //data in java is stored as various specific datatypes/ here is a class showing you how to instantiate each of these datatypes. 
     public static void types() {
         //here is an integer:
