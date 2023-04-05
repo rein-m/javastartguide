@@ -8,7 +8,6 @@ public class startguide {
     /* To check if you have a Java Development Kit (JDK) installed on your computer, open the command prompt and type "java -version", and after that type "javac -version"
     If you have a JDK installed, it will display the version number. If not, you will see an error message.
     If you don't have a JDK installed, grab Amazon Corretto (for now still a good option, may age poorly)
-    (sigh, companies)
 
     Amazon Corretto is a free, open-source, production-ready distribution of the Open Java Development Kit (OpenJDK) that is available for download from the Amazon website. To download and install Amazon Corretto, follow these steps:
 
@@ -112,7 +111,7 @@ public class startguide {
 
         }
     }
-    //this should give you a fairly good grasp of the basics, but look up anything you dont understand! i will probably periodically update this until it gets complex enough that you would be better off googling it.
+    //this should give you a fairly good grasp of the basics, but look up anything you dont understand! i will probably periodically update this until the topic gets complex enough that you would be better off googling it.
     
 
     
