@@ -100,7 +100,8 @@ public class startguide {
         if (x == 1) {
             System.out.println("we have checked if x was equal to zero, then added one if that was true, then checked if x was equal to one, then printed this statement!");
         }
-        //if statements can contain many conditions inside them, differenciated by && (if this AND that) || (if this OR that), !|| (if this OR NOT that) !&& (if this AND NOT that) 
+        //if statements can contain many conditions inside them, differenciated by && (if this AND that) || (if this OR that), !|| (if this OR NOT that) !&& (if this AND NOT that)
+        //i suggest reading more about demorgan's law here, as it is fairly useful to know/
     }
     //now that we have seen some simple math functions in java and if statements, we can combine them to create a more complex method:
     public static void mathshowcase(int a, int b, int c) {
