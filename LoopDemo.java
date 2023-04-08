@@ -1,15 +1,10 @@
 /**
  * This program demonstrates the use of for loops and while loops in Java.
- * We will use loops to print numbers, iterate over an array, and read user input.
+ * We will use loops to print numbers and iterate over an array
  */
 
 public class LoopDemo {
 
-    /**
-     * The main method is the entry point of our program.
-     * This is where the execution starts.
-     * 
-     */
     public static void main(String[] args) {
 
         
