@@ -20,7 +20,7 @@ public class arrays {
         arr[0] = 1;
         arr[1] = 2;
         //note that arrays start at a point of zero. this is especially important because when you are looping over arrays in loops you want to make sure your pointers also start at zero.
-        
+        //so any point in an array can be accessed by using arrayname+[position]
 
     }
     //a few notes about arrays. the easiest way to print out an array in a single line of code is as follows: System.out.println(Arrays.toString(arr));
