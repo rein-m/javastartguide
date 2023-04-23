@@ -47,7 +47,7 @@ public class startguide {
     //next, we have a return type. this tells the computer what to expect back when we call (use) the method. this can be set to any datatype. if you don't want to return anything, use the void return type.
     //after this, we have the method name. this isnt super important, and can generally be whatever you want it to be. when calling a method, you want to use that method name.
     //finally, in parentheses, we have what kind of data we want the method to take in. this data can come from anywhere, but once you pass it into method data in, it will be essentially copied into the method as the data in type.
-     //here is an example of method declaration:
+    //here is an example of method declaration:
     public static int example(int a){ 
         //the return type is an int, and the return statement returns the int a, which has been declared as one of the 'data in' variables
         return a;
