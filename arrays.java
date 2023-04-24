@@ -24,5 +24,6 @@ public class arrays {
 
     }
     //a few notes about arrays. the easiest way to print out an array in a single line of code is as follows: System.out.println(Arrays.toString(arr));
+    //for this to work, you need to include this before your class declaration: import java.util.Arrays;
     //alternatively, you can loop over each element of an array and print it out in a single line, but if you don't know loops or want single lines, this method will do it just the same. 
 }
