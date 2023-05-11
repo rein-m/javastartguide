@@ -19,10 +19,19 @@ public class arrays {
         //if you want to fill an already existing array, you can do it like this:
         arr[0] = 1;
         arr[1] = 2;
-        //note that arrays start at a point of zero. this is especially important because when you are looping over arrays in loops you want to make sure your pointers also start at zero.
+        //note that arrays start at a point of zero. this is especially important because when you are looping over arrays you want to make sure your pointers also start at zero.
         //so any point in an array can be accessed by using arrayname+[position]
 
     }
+    //you can also make a 2d array. this is fairly intuitive:
+    public static void twodimension(int row, int col) {
+        //to create your array, it goes like this:
+        int[][] arr = new int[row][column];
+        //2d arrays are always created in order [rows][colums].
+        
+    }
+    //you can also make 3d arrays (useful for images and rgb values, perhaps) and 4d arrays (useful for nohting i can think of), and so on.
+    //theoretically you could make a ten dimensional array, but that would be wildly inefficient in 99% of your operations.
     //a few notes about arrays. the easiest way to print out an array in a single line of code is as follows: System.out.println(Arrays.toString(arr));
     //for this to work, you need to include this before your class declaration: import java.util.Arrays;
     //alternatively, you can loop over each element of an array and print it out in a single line, but if you don't know loops or want single lines, this method will do it just the same. 
