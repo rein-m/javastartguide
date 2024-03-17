@@ -1,4 +1,4 @@
 Java Version: doesn't matter a lot, if you find it does, you're doing things too complex for this tutorial and should look elsewhere. (i recommend amazon corretto because it's free, and free is good. don't give oracle your money unless you can't help it or want to)
 
 IDE/text editor: you could use eclispe or sublime, i just use vscode because it's intuitive, has a built in compiler, and has nice color styles and extensions.
-(recommend vscode extensions java extension pack, tabnine (always double check if using), debugger for java, test runner for java)
+(recommend vscode extensions java extension pack, debugger for java, test runner for java)
