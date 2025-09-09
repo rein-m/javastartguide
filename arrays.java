@@ -30,9 +30,10 @@ public class arrays {
         //2d arrays are always created in order [rows][colums].
         
     }
-    //you can also make 3d arrays (useful for images and rgb values, perhaps) and 4d arrays (useful for nohting i can think of), and so on.
+    //you can also make 3d arrays (useful for images and rgb values, perhaps) and 4d arrays (useful for nothing i can think of), and so on.
     //theoretically you could make a ten dimensional array, but that would be wildly inefficient in 99% of your operations.
     //a few notes about arrays. the easiest way to print out an array in a single line of code is as follows: System.out.println(Arrays.toString(arr));
     //for this to work, you need to include this before your class declaration: import java.util.Arrays;
     //alternatively, you can loop over each element of an array and print it out in a single line, but if you don't know loops or want single lines, this method will do it just the same. 
 }
+
